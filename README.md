@@ -1,5 +1,5 @@
 # TAVR-Clustering
-* This repository contains Python implementation of the following paper:[Unsupervised Cluster Analysis Reveals Different Phenotypes in Patients after Transcatheter Aortic Valve Replacement](https://academic.oup.com/ehjopen)
+* This repository contains python implementation of the following paper:[Unsupervised Cluster Analysis Reveals Different Phenotypes in Patients after Transcatheter Aortic Valve Replacement](https://academic.oup.com/ehjopen)
 * **This paper is currently under review.**
 
 ---
