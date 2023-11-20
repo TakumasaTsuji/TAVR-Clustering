@@ -3,7 +3,7 @@
 """
 Created on Mon Nov 13 18:13:01 2023
 
-@author: tuj
+@author: Tsuji
 """
 
 import matplotlib 
